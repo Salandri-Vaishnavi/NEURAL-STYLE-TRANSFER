@@ -12,4 +12,21 @@
 #torchvision:	For image transformation and loading the pretrained VGG19 mode
 #PIL (Python Imaging Library): Used for loading and converting images
 #matplotlib: For visualizing and displaying the output image
-#VGG19: Pretrained convolutional neural network used for extracting content and style features.
+#VGG19: Pretrained convolutional neural network used for extracting content and style features
+*PLATFORM*: 
+#vscode
+#Programming Language: Python
+#Framework: PyTorch
+#Libraries: torchvision, PIL, matplotlib
+*APPLICABLE*: 
+#Art & Design
+#Creative Media
+#Marketing & Advertising
+#Education & Research
+#Apps & Services
+
+*OUTPUT*:
+
+
+
+
