@@ -27,6 +27,16 @@
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/fb755163-4a95-45ca-ac8c-9eca5ee2daeb)
+
+
+
+![Image](https://github.com/user-attachments/assets/bbd8bb16-2247-4326-be9b-5f9246cf6fda)
+
+
+
+![Image](https://github.com/user-attachments/assets/bcc30323-3d9b-4b0f-b670-ffdaf402abbe)
+
 
 
 
